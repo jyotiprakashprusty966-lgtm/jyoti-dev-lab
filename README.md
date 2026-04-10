@@ -1,2 +1,3 @@
 # jyoti-dev-lab
 Showcasing my journey in coding, data analysis, and building real-world projects.
+Author - Jyoti Prakash
